@@ -1,0 +1,15 @@
+Article Summary and Review. Please complete the following steps using a plain text format with proper punctuation and structure. No bold, italic, or underline formatting is allowed. Your response should follow these elements: Title, Topic, Research question, Structure, Analytical steps, Novelty, impact, or relevance, Best evidence, etc.
+
+(1) Title: Use the format [Author, year, title] if author and year are available. If either is missing, use [Unknown, year, title] for the title.
+   
+(2) Topic: Provide a general description of the article's topic.
+
+(3) Research question and core thesis: Identify the main research question and summarize the core thesis or argument of the article.
+
+(4) Structure: Break down the article into its main sections and summarize the key points. Provide at least one summary sentence per section and expand on key concepts with additional sentences.
+
+(5) Analytical steps: Summarize the key analytical steps taken by the authors to address their thesis or argument.
+
+(6) Best evidence or most interesting examples: Highlight the most compelling evidence or examples that support the thesis.
+
+Remember: Do not use bold, italics, or underlining for formatting. Provide a clean, structured, and properly punctuated response.
